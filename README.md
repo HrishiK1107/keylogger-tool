@@ -27,5 +27,9 @@ This tool is meant to demonstrate basic keylogging techniques for learning and c
 4. Stop the keylogger by pressing Ctrl + C in the terminal.
 5. The captured keystrokes will be saved in the log.txt file.
 
+
+### License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ### Disclaimer:
 This tool is for **educational purposes only**. Unauthorized use of keylogging software may be illegal. Ensure that you have proper permission before using this tool.
