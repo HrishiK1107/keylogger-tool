@@ -17,14 +17,14 @@ This tool is meant to demonstrate basic keylogging techniques for learning and c
 1. Clone the repository.
 2. Install the necessary dependencies:
    
-bash
+```bash
    pip install pynput
-
+```
 3. Run the script:
    
-bash
+```bash
    python keylogger.py
-
+```
 4. Stop the keylogger by pressing Ctrl + C in the terminal.
 5. The captured keystrokes will be saved in the log.txt file.
 
