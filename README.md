@@ -1,4 +1,4 @@
-## Keylogger Tool 🖥️
+# Keylogger Tool 🖥️
 **Keylogger Tool** is a simple Python-based keylogger designed for educational purposes. This tool logs all the keystrokes typed on a keyboard and saves them to a log file (log.txt). It demonstrates how to capture keyboard input using the pynput library in Python.
 
 ### Features:
